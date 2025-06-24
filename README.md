@@ -43,7 +43,7 @@ Before running this project, ensure that you have the following installed on you
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/Sajal-2003/github-clone.git
+    git clone (https://github.com/yogendradayal/gitNest)
     cd github-clone
     ```
 
@@ -132,7 +132,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions or inquiries, please contact [sajal72003@gmail.com].
+For any questions or inquiries, please contact [yogendradayal3@gmail.com].
 
 ---
 
