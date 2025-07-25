@@ -9,7 +9,7 @@ Here's a `README.md` file template for a MERN stack application that clones the 
 This project is a GitHub-like clone built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. The application replicates some of the core features of GitHub, including repository management, user profiles, and more. Authentication is managed using Passport.js with GitHub OAuth, allowing users to sign in using their GitHub accounts.
 
 ## Live Demo
-The service is live and can be accessed at (https://github-mern-app-6eey.onrender.com)
+The service is live and can be accessed at (https://github-mern-app-6eey.onrender.com/login)
 
 ## Features
 
