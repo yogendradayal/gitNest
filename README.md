@@ -11,6 +11,7 @@ This project is a GitHub-like clone built using the MERN (MongoDB, Express.js, R
 The service is live and can be accessed at (https://github-mern-app-6eey.onrender.com/login)
 
 ## Screenshots
+![erdiagram](gitERD.png)
 ![login](gitlogin.png)
 ![login](signup.png)
 ![login](home.png)
